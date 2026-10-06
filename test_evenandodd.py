@@ -1,4 +1,4 @@
-from evenodd import evenandodd
+from evenandodd import evenandodd
 def test_odd():
     assert evenandodd(13)=="odd number"
 def test_even():
